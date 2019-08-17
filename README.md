@@ -2,7 +2,7 @@
 
 Team members: Andy Cui, Eli Hanna, Thanh Le, Edina Tankovic
 
-**Prologue**
+**Prologue**\n
 Reddit is an online community/forum created in 2005. On reddit, users can anonymously post messages, comment on said posts, and upvote and downvote posts and comments. Reddit also has a concept of a subreddit, which are similar to forum boards and specialize in topics. 
 Our project focuses on a specific subreddit: /r/Random_Acts_Of_Pizza/. In this subreddit, users can post a request for pizza, explaining their request in the post text. Other users can then respond, and send a pizza to the requester in an act of generosity. 
 We believe that there is a lot to be gleaned about human behavior, specifically on what it takes to be persuasive enough to get a random stranger to be generous enough to deliver free pizza to you. Our main focus is on predicting what it takes to get free pizza, but along the way we explore other latent factors of this active and interesting online community.
