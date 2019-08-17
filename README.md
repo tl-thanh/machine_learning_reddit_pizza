@@ -1,4 +1,4 @@
-# This repository holds the python code, *Scikit-learn*, for the analysis of Reddit - Random Acts of Pizza.
+# This repository holds the python code, *Scikit-learn* machine learning models, for the analysis of Reddit - Random Acts of Pizza.
 
 Team members: Andy Cui, Eli Hanna, Thanh Le, Edina Tankovic
 
